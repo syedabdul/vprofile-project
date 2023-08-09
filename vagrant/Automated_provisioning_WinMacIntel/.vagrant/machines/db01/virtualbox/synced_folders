@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/Users/AbdulSyed/OneDrive - kyndryl/Desktop/Learning/Devops/local-setup/vprofile-project/vagrant/Automated_provisioning_WinMacIntel","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
